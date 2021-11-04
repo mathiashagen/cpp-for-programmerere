@@ -1,0 +1,3 @@
+/home/mathias/Documents/oblig4/oppgave2/build/CMakeFiles/rebuild_cache.dir
+/home/mathias/Documents/oblig4/oppgave2/build/CMakeFiles/edit_cache.dir
+/home/mathias/Documents/oblig4/oppgave2/build/CMakeFiles/gtkmm_example.dir
